@@ -19,7 +19,7 @@ public class Main extends JavaPlugin
 
 		/** Loading Messages **/
         console.sendMessage("§f- §6====================================== §f-");
-        console.sendMessage("§6      NoCollisions §ePlugin Is Enable");
+        console.sendMessage("§6      UltimateNoCollisions §ePlugin Is Enable");
         console.sendMessage("§e          Plugin by §6Maxime#3390");
         console.sendMessage("§e             Version: §61.0.0");
         console.sendMessage("§f- §6====================================== §f-");
@@ -31,7 +31,7 @@ public class Main extends JavaPlugin
     public void onDisable() {
 		/** Disabling Messages **/
         console.sendMessage("§f- §6====================================== §f-");
-        console.sendMessage("§6      NoCollisions §ePlugin Is Disable");
+        console.sendMessage("§6      UltimateNoCollisions §ePlugin Is Disable");
         console.sendMessage("§e          Plugin by §6Maxime#3390");
         console.sendMessage("§e             Version: §61.0.0");
         console.sendMessage("§f- §6====================================== §f-");
